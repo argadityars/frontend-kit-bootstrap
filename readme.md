@@ -1,8 +1,6 @@
 # Front End Starter Kit
------------------------
 
 ## Features
------------
 
 1. Gulp
 2. Sass
@@ -12,7 +10,6 @@
 6. Browser Sync
 
 ## How to install
------------------
 
 Just run npm install, and you are ready to go!
 
@@ -20,7 +17,6 @@ Just run npm install, and you are ready to go!
 
 
 ## How to use
--------------
 
 Run gulp in the working directory
 
