@@ -1,0 +1,47 @@
+@import "bootstrap";
+
+body {
+	padding-top: 70px;
+}
+
+.item{
+	height: 500px;
+}
+
+.carousel{
+	margin-bottom: 20px;
+}
+
+#card_1{
+	margin-bottom: 10px;
+	padding: 10px 50px;
+	background-color: rgba(22, 160, 133,.75);
+	h1,p{
+		color: white;
+		font-weight: 100;
+	}
+}
+.centering-button{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	}
+
+#card_2{
+	padding: 10px 20px;
+	background-color: rgba(241, 196, 15,.75);
+	text-align: center;
+}
+
+#card_3{
+	padding: 10px 20px;
+	background-color: rgba(230, 126, 34,.75);
+	text-align: center;
+}
+
+#card_4{
+	width: 100%;
+	margin-top: 25px;
+	padding: 10px 20px;
+	background-color: rgba(52, 152, 219,.75);
+	text-align: center;
+}
